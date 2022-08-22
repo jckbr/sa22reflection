@@ -1,0 +1,8 @@
+Karlsruhe Hbf
+Basel Sbb
+48.99348 N, 8.40212 E
+47.54733 N, 7.58807 E
+08:00
+09:47
+April 22 2022
+ICE 5

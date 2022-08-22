@@ -1,0 +1,8 @@
+Stuttgart Hbf
+Karlsruhe Hbf
+48.78541 N, 9.18325 E
+48.99348 N, 8.40212 E
+06:38
+07:53
+June 7 2022
+IC 2368

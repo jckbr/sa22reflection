@@ -1,0 +1,8 @@
+Stansted Airport
+Tottenham Hale
+51.88874 N, 0.26122 E
+51.58802 N, -0.05999 W
+19:00
+19:33
+June 14 2022
+EXP

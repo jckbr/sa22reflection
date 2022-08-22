@@ -1,0 +1,8 @@
+Mainz Hbf
+Frankfurt(M) Flughafen Regionalbf
+50.00146 N, 8.25839 E
+50.05293 N, 8.56966 E
+19:10
+19:33
+June 18 2022
+RE 29527

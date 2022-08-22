@@ -1,0 +1,8 @@
+Frankfurt(M) Flughafen Ferbf
+Augsburg Hbf
+50.05293 N, 8.56966 E
+48.36555 N, 10.88558 E
+20:52
+23:53
+June 18 2022
+ICE 615

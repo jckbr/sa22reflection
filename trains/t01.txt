@@ -1,0 +1,8 @@
+Frankfurt(M) Flughafen Fernbf
+Ulm Hbf
+50.05293 N, 8.56966 E
+48.39941 N, 9.98271 E
+10:09
+11:22
+April 01 2022
+ICE 915
